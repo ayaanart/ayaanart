@@ -1,4 +1,4 @@
-## Hello World ^_^
+# Hello World ^_^
 
 Top 2 finished things on this account (and the only :>)
 - [ayaan-programming-portfolio](https://github.com/ayaanart/ayaan-programming-portfolio): Ayaan's programming portfolio
@@ -8,8 +8,8 @@ Top 2 interesting things I am working on (roughly the same amount of interesting
 - [speed-dodger](https://github.com/ayaanart/speed-dodger): A game where you have to identify things based on their speed
 - [modular-conlang-constructor](https://github.com/ayaanart/modular-conlang-constructor): A system to create conlangs out of modular components that you can remove, add or swap to produce different conlangs
 
-# **Random things I randomly think about**
+## **Random things I randomly think about**
 - Temple OS and Terry Davis
 - Iron man
-- Rocky Road choclate or ice cream
+- Rocky Road chocolate or ice cream
 - Survivorship bias
