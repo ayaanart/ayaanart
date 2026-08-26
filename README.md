@@ -12,5 +12,5 @@ Top 3 interesting things I am working on (roughly the same amount of interesting
 ## **Random things I randomly think about**
 - Temple OS and Terry Davis
 - Iron man
-- Rocky Road chocolate or ice cream
-- Survivorship bias
+- Rocky Road ice cream
+- Diffie-Hellman
