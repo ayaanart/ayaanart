@@ -12,5 +12,6 @@ Top 3 interesting things I am working on (roughly the same amount of interesting
 ## **Random things I randomly think about**
 - Temple OS and Terry Davis
 - Iron man
-- Rocky Road ice cream
+- Srinivasa Ramanujan
 - Diffie-Hellman
+- Rocky Road ice cream
